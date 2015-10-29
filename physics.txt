@@ -1,0 +1,3 @@
+1. A scalar is a quantity which has both magnitude and direction.
+a) true
+b) false
